@@ -1,6 +1,6 @@
-## Desafio Frontend Mentor
+## Challenge Frontend Mentor
 
-Esse projeto UI-Card é um desafio da pagina Frontend Mentor no qual eu uso para aprimorar habilidades e conhecimentos utilizando HTML, CSS e JavaScript para que possa acrescentar no meu portfófio!
+This UI-Card project is a challenge from the Frontend Mentor page which I use to improve skills and knowledge using HTML, CSS and JavaScript so I can add to my portfolio!
 
 ## Let's go to challenge
 
